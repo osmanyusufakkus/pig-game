@@ -22,6 +22,15 @@ body {
   justify-content: center;
 }
 
+.github {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
+  align-self: flex-end;
+  margin-bottom: 10rem;
+  color: rgb(0, 0, 0);
+}
+
 /* LAYOUT */
 main {
   position: relative;
